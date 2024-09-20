@@ -1,4 +1,3 @@
-Subject: Data Structure and Algorithm
 # Lab Activity: Python review 
 Deadline: September 22, 2024 11:59pm
 
