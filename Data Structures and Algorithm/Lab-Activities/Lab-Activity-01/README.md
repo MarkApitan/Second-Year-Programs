@@ -1,5 +1,6 @@
 # Lab Activity: Python review 
 Deadline: September 22, 2024 11:59pm
+[Click here to see the code of the program](https://github.com/MarkApitan/Second-Year-Programs/blob/main/Data%20Structures%20and%20Algorithm/Lab-Activities/Lab-Activity-01/lab-activity-one.py)
 
 # Exercise 1: Temperature Converter
 Create a program that converts temperatures between Celsius and Fahrenheit.
