@@ -57,12 +57,11 @@ def ohms_calculator():
         print("Error. Invalid Input!")
     
 # Exercise 3:  Diamond Shape (advance topic):
-def print_diamond():
-    print("\nWelcome to Diamond Maker Program!")
-    width = int(input("Enter the width you want (odd numbers only):"))
+def print_diamond(width):
     if width % 2 == 0:
         print("Error! Please provide an odd integer.")
     else:
+        print("\nWelcome to Diamond Maker Program! This is your diamond.\n")
         # Make the diamond
         mid = width // 2
         for i in range(mid + 1):
@@ -95,7 +94,8 @@ Programmed by: Mark Justine L. Apitan
         elif program_chosen == 2:
             ohms_calculator()
         elif program_chosen == 3:
-            print_diamond()
+            width = int(input("Enter the width you want (odd numbers only): "))
+            print_diamond(width)
         else:
             print("Invalid Input!")
     # To catch all the errors
