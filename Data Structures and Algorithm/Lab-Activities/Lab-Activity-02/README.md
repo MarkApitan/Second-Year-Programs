@@ -61,4 +61,4 @@ Enter the height of the triangle: 6
 ![image](https://github.com/user-attachments/assets/6f7eca7a-cef0-47f5-8902-a86c4fc0955a)
 
 ## Concepts Learned
--Recursion
+- Recursion
