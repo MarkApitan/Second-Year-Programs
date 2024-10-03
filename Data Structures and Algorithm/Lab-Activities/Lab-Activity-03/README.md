@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fc74d898-491c-494e-8f5c-2282a46f71ab)# Data Structure and Algorithm Lab Activity 3: List Comprehension
+# Data Structure and Algorithm Lab Activity 3: List Comprehension
 ### Programmed by: Mark Justine L. Apitan, BSCPE 2-3
 
 ## Lab exercise 1
